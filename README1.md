@@ -62,3 +62,11 @@ It's a Project name BookMyShow Clone created using React. It contains some Addit
 6. React Icons
 
 7. react-router-dom
+
+### API
+
+For API we use "https://www.themoviedb.org/" or "TMDB"
+
+### SERVER
+
+For Server to store and deploy the project we use "https://vercel.com/" or "vercel"
