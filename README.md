@@ -69,7 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-<!-- # BookMyShow Clone
+# BookMyShow Clone
 
 ---
 
@@ -140,4 +140,4 @@ For API we use "https://www.themoviedb.org/" or "TMDB"
 
 ### SERVER
 
-For Server to store and deploy the project we use "https://vercel.com/" or "vercel" -->
+For Server to store and deploy the project we use "https://vercel.com/" or "vercel"
